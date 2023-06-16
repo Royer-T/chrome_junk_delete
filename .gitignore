@@ -1,2 +1,7 @@
 # idea folder
 .idea
+
+# PyInstaller
+*.spec
+/build/
+/dist/
