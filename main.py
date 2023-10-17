@@ -48,6 +48,7 @@ def main():
     delete_folders(program, 'chrome_BITS_')
     delete_folders(program, 'chrome_ComponentUnpacker_BeginUnzipping')
     delete_folders(program, 'chrome_url_fetcher_')
+    delete_folders(program, 'chrome_PuffinComponentUnpacker_BeginUnzipping')
 
 
 if __name__ == '__main__':
